@@ -1,0 +1,10 @@
+trading_order_detail_id,call_order_detail_id,rm_name_cod,client_name_cod,Instrument_Name,call_type,transaction_type,call_order_quantity,trading_order_quantity,call_order_price,trading_order_price,order_placed_time,qty_difference,quantity_threshold,qty_qa_status,qty_mismatch_reason_id,price_difference,price_threshold,price_qa_status,price_mismatch_reason_id,time_difference,time_threshold,time_qa_status,time_mismatch_reason_id,final_qa_status
+200.0,100.0,Ankanee,Harshit,infosys,,,100.0,100.0,2000.0,2000.0,2025-07-09 10:00:00,0.0,1.0,match,,0.0,0.1,match,,120.0,300.0,match,,match
+201.0,101.0,Ankanee,Harshit,reliance,,,200.0,210.0,1500.0,2000.0,2025-07-09 11:00:00,10.0,1.0,mismatch,0.0,500.0,0.1,mismatch,0.0,240.0,300.0,match,,mismatch
+202.0,102.0,Ankanee,Kishan,infosys,,,200.0,200.0,2000.0,2200.0,2025-07-09 13:00:00,0.0,1.0,match,,200.0,0.1,mismatch,0.0,120.0,300.0,match,,mismatch
+203.0,103.0,Aishwarya,Supriya,itc,,,100.0,100.0,300.0,300.0,2025-07-09 13:00:00,0.0,1.0,match,,0.0,0.1,match,,120.0,300.0,match,,match
+204.0,,,,bajaj auto,,,,50.0,,100.0,,,1.0,mismatch,0.0,,0.1,mismatch,0.0,,300.0,mismatch,0.0,mismatch
+206.0,106.0,Aishwarya,Sujay,asian paints,,,10.0,10.0,2500.0,3000.0,2025-07-09 15:00:00,0.0,1.0,match,,500.0,0.1,mismatch,0.0,180.0,300.0,match,,mismatch
+205.0,105.0,Aishwarya,Neeraj,wipro,,,100.0,100.0,200.0,200.0,2025-07-09 12:00:00,0.0,1.0,match,,0.0,0.1,match,,-720.0,300.0,match,,match
+207.0,107.0,Darshan,Pratik,gmr,,,5.0,5.0,92.0,92.0,2025-07-09 21:45:00,0.0,1.0,match,,0.0,0.1,match,,3600.0,300.0,mismatch,0.0,mismatch
+,104.0,Aishwarya,Neelam,godgrej propoerty,,,400.0,,350.0,,2025-07-09 14:00:00,,,mismatch,0.0,,,mismatch,0.0,,,mismatch,0.0,mismatch

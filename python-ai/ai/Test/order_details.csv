@@ -1,0 +1,8 @@
+## Call Order Details
+client_id,rm_id,rm_name,client_name,call_order_instrument_name,call_order_quantity,call_order_price,order_placed_time,call_type,transaction_type,stop_loss,order_Status,target_price,product_details_id
+101,201,Amit Sharma,Ravi Verma,reliance,100,2500.5,2025-07-11 10:30:00,Inbound,Buy,2400,Placed,2700,
+102,202,Neha Joshi,Sunil Mehta,infosys,50,1450.0,2025-07-11 11:00:00,Outbound,Sell,1400,Executed,1500,
+## Trading Order Details
+instrument_id,client_id,rm_id,rm_name,client_name,instrument_name,trading_order_quantity,trading_order_price,order_execution_time,call_type,transaction_type,stop_loss,order_Status,target_price,product_details_id
+501,101,201,Amit Sharma,Ravi Verma,reliance,100,2510.75,2025-07-11 10:45:00,Inbound,Buy,2400,Executed,2700,1001
+502,102,202,Neha Joshi,Sunil Mehta,infosys,50,1448.0,2025-07-11 11:05:00,Outbound,Sell,1400,Executed,1500,1002
